@@ -1,0 +1,15 @@
+C:\Users\Abilena\source\repos\ExponentsLab\ExponentsLab\bin\Debug\net6.0\ExponentsLab.exe
+C:\Users\Abilena\source\repos\ExponentsLab\ExponentsLab\bin\Debug\net6.0\ExponentsLab.deps.json
+C:\Users\Abilena\source\repos\ExponentsLab\ExponentsLab\bin\Debug\net6.0\ExponentsLab.runtimeconfig.json
+C:\Users\Abilena\source\repos\ExponentsLab\ExponentsLab\bin\Debug\net6.0\ExponentsLab.dll
+C:\Users\Abilena\source\repos\ExponentsLab\ExponentsLab\bin\Debug\net6.0\ExponentsLab.pdb
+C:\Users\Abilena\source\repos\ExponentsLab\ExponentsLab\obj\Debug\net6.0\ExponentsLab.csproj.AssemblyReference.cache
+C:\Users\Abilena\source\repos\ExponentsLab\ExponentsLab\obj\Debug\net6.0\ExponentsLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abilena\source\repos\ExponentsLab\ExponentsLab\obj\Debug\net6.0\ExponentsLab.AssemblyInfoInputs.cache
+C:\Users\Abilena\source\repos\ExponentsLab\ExponentsLab\obj\Debug\net6.0\ExponentsLab.AssemblyInfo.cs
+C:\Users\Abilena\source\repos\ExponentsLab\ExponentsLab\obj\Debug\net6.0\ExponentsLab.csproj.CoreCompileInputs.cache
+C:\Users\Abilena\source\repos\ExponentsLab\ExponentsLab\obj\Debug\net6.0\ExponentsLab.dll
+C:\Users\Abilena\source\repos\ExponentsLab\ExponentsLab\obj\Debug\net6.0\refint\ExponentsLab.dll
+C:\Users\Abilena\source\repos\ExponentsLab\ExponentsLab\obj\Debug\net6.0\ExponentsLab.pdb
+C:\Users\Abilena\source\repos\ExponentsLab\ExponentsLab\obj\Debug\net6.0\ExponentsLab.genruntimeconfig.cache
+C:\Users\Abilena\source\repos\ExponentsLab\ExponentsLab\obj\Debug\net6.0\ref\ExponentsLab.dll
